@@ -4,5 +4,6 @@
     <li><a href="{{ site.baseurl }}/about">About</a></li>
     <li><a href="{{ site.baseurl }}/cv">CV</a></li>
     <li><a href="{{ site.baseurl }}/bloghome">Blog</a></li>
+    <li><a href="{{ site.baseurl }}/test">Blog</a></li>
   </ul>
 </nav>
