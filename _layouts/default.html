@@ -6,24 +6,12 @@
       <link rel="stylesheet" type="text/css" href="/css/main.css">
     </head>
     <body>
-      <nav>
-          <ul>
-              <li><a href="{{ site.baseurl }}/">Home</a></li>
-              <li><a href="{{ site.baseurl }}/about">About</a></li>
-              <li><a href="{{ site.baseurl }}/cv">CV</a></li>
-              <li><a href="{{ site.baseurl }}/bloghome">Blog</a></li>
-          </ul>
-      </nav>
+      {% include nav %}
+
       <div class="container">
-
-      {{ content }}
-
+        {{ content }}
       </div><!-- /.container -->
-      <footer>
-          <ul>
-              <li><a href="mailto:hankquinlanhub@gmail.com">email</a></li>
-              <li><a href="https://github.com/hankquinlan">github.com/hankquinlan</a></li>
-        </ul>
-      </footer>
+
+      {% include footer %}
     </body>
   </html>
