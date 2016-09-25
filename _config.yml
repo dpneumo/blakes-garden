@@ -26,3 +26,7 @@ github_username:  dpneumo
 markdown: kramdown
 theme: minima
 permalink: /blakes-garden/blog/:year/:month/:day/:title
+
+collections:
+  grasses:
+    output: true
