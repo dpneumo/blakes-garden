@@ -2,5 +2,5 @@
 layout: default
 ---
 {% for grass in site.grasses %}
-  <a href="{{ site.baseurl }}/grasses/{{ grass.path }}">{{ grass.title }}</a>
+  <a href="{{ site.baseurl }}/{{ grass.path }}">{{ grass.title }}</a>
 {% endfor %}
