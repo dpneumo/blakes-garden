@@ -1,5 +1,0 @@
-* [Home](https://dpneumo.github.io/blakes-garden/)
-* [About](https://dpneumo.github.io/blakes-garden/about)
-* [CV](https://dpneumo.github.io/blakes-garden/cv)
-* [Blog](https://dpneumo.github.io/blakes-garden/bloghome)
-* [GH Page Info](https://dpneumo.github.io/blakes-garden/ghp_info)
