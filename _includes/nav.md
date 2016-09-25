@@ -1,0 +1,5 @@
+* [Home]({{ site.baseurl }}/)
+* [About]({{ site.baseurl }}/about)
+* [CV]({{ site.baseurl }}/cv)
+* [Blog]({{ site.baseurl }}/bloghome)
+* [GH Page Info]({{ site.baseurl }}/ghp_info)
