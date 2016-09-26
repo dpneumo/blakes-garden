@@ -1,6 +1,10 @@
 ---
 layout: default
 ---
-{% for grass in site.grasses %}
-  <a href="{{ site.baseurl }}/grasses/{{ grass.name }}">{{ grass.title }}</a>
-{% endfor %}
+<ul>
+  {% for grass in site.grasses %}
+    <li>
+      <a href="{{ site.baseurl }}/grasses/{{ grass.name }}">{{ grass.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
