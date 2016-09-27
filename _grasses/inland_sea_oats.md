@@ -7,5 +7,5 @@ name: inland_sea_oats
 
 ## Information about them!
 
-+ ![Inland Sea Oats seed heads]({{ site.baseurl }}/images/grasses/{{ name }}/SS500_077.jpg){:width="50"}
++ ![Inland Sea Oats seed heads]({{ site.baseurl }}/images/grasses/{{ name }}/SS500_077.jpg){:width="50px" :height="50px"}
 
