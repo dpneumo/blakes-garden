@@ -9,3 +9,9 @@ name: inland_sea_oats
 
 ![Inland Sea Oats seed heads]({{ site.baseurl }}/images/grasses/{{ page.name }}/SS500_077.jpg){:width="200px" :height="200px"}
 
+![Inland Sea Oats seed heads]({{ site.baseurl }}/images/grasses/{{ page.name }}/6151_IMG01416.jpg){:width="200px" :height="200px"}
+
+![Inland Sea Oats seed heads]({{ site.baseurl }}/images/grasses/{{ page.name }}/PCR_IMG0186.jpg){:width="200px" :height="200px"}
+
+![Inland Sea Oats seed heads]({{ site.baseurl }}/images/grasses/{{ page.name }}/PCR_IMG0187.jpg){:width="200px" :height="200px"}
+
