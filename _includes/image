@@ -1,2 +1,2 @@
 {% capture imagePath %}{{ include.name }}{% endcapture %}
-<img src="/assets/images/grasses/{{ imagePath }}">
+<img src="/assets/images/grasses/{{ imagePath }}"/>
