@@ -9,7 +9,7 @@ name: inland_sea_oats
 
 Seed Heads | Clumps | Leaf Branching | Leaf Origin
 --- | --- | --- | ---
-[sh] | ![clumps] | ![leaf_branching] | ![leaf_origin]
+[![seed_heads]][lbj_sh] | ![clumps] | ![leaf_branching] | ![leaf_origin]
 
 
 [seed_heads]: {{ site.baseurl }}/images/grasses/{{ page.name }}/SS500_077.jpg
@@ -21,4 +21,4 @@ Seed Heads | Clumps | Leaf Branching | Leaf Origin
 [leaf_origin]: {{ site.baseurl }}/images/grasses/{{ page.name }}/PCR_IMG0187.JPG
 
 
-[sh]: [![seed_heads]](http://www.wildflower.org/gallery/result.php?id_image=19376)
+[lbj_sh]: http://www.wildflower.org/gallery/result.php?id_image=19376
