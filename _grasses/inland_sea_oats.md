@@ -5,11 +5,11 @@ name: inland_sea_oats
 ---
 ### Inland Sea Oats
 
-## Information about them!
+[Lady Bird Johnson Wildflower Center](https://www.wildflower.org/plants/result.php?id_plant=CHLA5)
 
 Seed Heads | Clumps | Leaf Branching | Leaf Origin
 --- | --- | --- | ---
-[![seed_heads]][lbj_sh] | ![clumps] | ![leaf_branching] | ![leaf_origin]
+[![seed_heads]][lbj_CHLA5_seeds] | ![clumps] | ![leaf_branching] | ![leaf_origin]
 
 
 [seed_heads]: {{ site.baseurl }}/images/grasses/{{ page.name }}/SS500_077.jpg
@@ -21,4 +21,4 @@ Seed Heads | Clumps | Leaf Branching | Leaf Origin
 [leaf_origin]: {{ site.baseurl }}/images/grasses/{{ page.name }}/PCR_IMG0187.JPG
 
 
-[lbj_sh]: http://www.wildflower.org/gallery/result.php?id_image=19376
+[lbj_CHLA5_seeds]: http://www.wildflower.org/gallery/result.php?id_image=19376
