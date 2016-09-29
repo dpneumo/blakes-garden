@@ -18,7 +18,7 @@ Seed Heads | Clumps | Leaf Branching | Leaf Origin
 [leaf_origin]: {{ site.baseurl }}/images/grasses/{{ page.name }}/PCR_IMG0187.JPG
 
 
-[lbj_CHLA5_seeds]: http://www.wildflower.org/gallery/result.php?id_image=19376
-[lbj_CHLA5_clumps]: http://www.wildflower.org/gallery/result.php?id_image=12878
-[lbj_CHLA5_leaf_branching]: http://www.wildflower.org/gallery/result.php?id_image=42959
-[lbj_CHLA5_leaf_origin]: http://www.wildflower.org/gallery/result.php?id_image=42960
+[lbj_CHLA5_seeds]: http://www.wildflower.org/gallery/result.php?id_image=19376 "Sam C Strickland, Lady Bird Johnson Wildflower Center"
+[lbj_CHLA5_clumps]: http://www.wildflower.org/gallery/result.php?id_image=12878 "Joseph a Marcus, Lady Bird Johnson Wildflower Center"
+[lbj_CHLA5_leaf_branching]: http://www.wildflower.org/gallery/result.php?id_image=42959 "Peggy Romfh, Lady Bird Johnson Wildflower Center"
+[lbj_CHLA5_leaf_origin]: http://www.wildflower.org/gallery/result.php?id_image=42960 "Peggy Romfh, Lady Bird Johnson Wildflower Center"
