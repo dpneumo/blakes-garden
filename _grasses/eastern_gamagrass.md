@@ -9,6 +9,6 @@ name: eastern_gamagrass
 
 [![seed_heads]][lbj_TRDA3_seeds]
 
-[seed_heads]: {{ site.baseurl }}/images/grasses/{{ page.name }}/PCD0002_IMG0003.jpg
+[seed_heads]: {{ site.baseurl }}/images/grasses/{{ page.name }}/PCD0002_IMG0003.JPG
 
 [lbj_TRDA3_seeds]: http://www.wildflower.org/gallery/result.php?id_image=103 "Paul Cox, Lady Bird Johnson Wildflower Center"
