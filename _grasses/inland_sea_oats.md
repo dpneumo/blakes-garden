@@ -7,7 +7,7 @@ name: inland_sea_oats
 
 ## Information about them!
 
-Clumps | Leaf Branching | Leaf Origin |Seed Heads
+Seed Heads | Clumps | Leaf Branching | Leaf Origin
 --- | --- | --- | ---
 ![Seed Heads][seed_heads] | ![Clumps][clumps] | ![Leaf Branching][leaf_branching] | ![Leaf Origin][leaf_origin]
 
