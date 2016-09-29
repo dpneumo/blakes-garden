@@ -3,7 +3,7 @@ layout: default
 title: Inland Sea Oats
 name: inland_sea_oats
 ---
-### Inland Sea Oats
+## Inland Sea Oats
 
 [Lady Bird Johnson Wildflower Center](https://www.wildflower.org/plants/result.php?id_plant=CHLA5)
 
