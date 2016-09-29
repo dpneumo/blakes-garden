@@ -21,4 +21,4 @@ Seed Heads | Clumps | Leaf Branching | Leaf Origin
 [leaf_origin]: {{ site.baseurl }}/images/grasses/{{ page.name }}/PCR_IMG0187.JPG
 
 
-[![seed_heads]](https://www.wildflower.org/plants/result.php?id_plant=CHLA5)
+[![seed_heads]](http://www.wildflower.org/gallery/result.php?id_image=12066)
