@@ -9,7 +9,7 @@ name: inland_sea_oats
 
 Clumps | Leaf Branching | Leaf Origin |Seed Heads
 --- | --- | --- | ---
-![Seed Heads][seed_heads][dims] | ![Clumps][clumps] | ![Leaf Branching][leaf_branching] | ![Leaf Origin][leaf_origin]
+![Seed Heads][seed_heads] | ![Clumps][clumps] | ![Leaf Branching][leaf_branching] | ![Leaf Origin][leaf_origin]
 
 
 [seed_heads]: {{ site.baseurl }}/images/grasses/{{ page.name }}/SS500_077.jpg
@@ -19,5 +19,3 @@ Clumps | Leaf Branching | Leaf Origin |Seed Heads
 [leaf_branching]: {{ site.baseurl }}/images/grasses/{{ page.name }}/PCR_IMG0186.JPG
 
 [leaf_origin]: {{ site.baseurl }}/images/grasses/{{ page.name }}/PCR_IMG0187.JPG
-
-[dims]: {width=50px height=50px}
