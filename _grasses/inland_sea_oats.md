@@ -19,3 +19,6 @@ Seed Heads | Clumps | Leaf Branching | Leaf Origin
 [leaf_branching]: {{ site.baseurl }}/images/grasses/{{ page.name }}/PCR_IMG0186.JPG
 
 [leaf_origin]: {{ site.baseurl }}/images/grasses/{{ page.name }}/PCR_IMG0187.JPG
+
+
+[Remote Seed Heads](https://www.wildflower.org/plants/result.php?id_plant=CHLA5)
