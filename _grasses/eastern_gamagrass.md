@@ -6,7 +6,7 @@ symbol: TRDA3
 ---
 ## Eastern Gamagrass (Tripsacum dactyloides)
 
-[Lady Bird Johnson Wildflower Center - {{ page.title }} ](https://www.wildflower.org/plants/result.php?id_plant={{ page.symbol }})
+[Lady Bird Johnson Wildflower Center - {{ page.name }} ](https://www.wildflower.org/plants/result.php?id_plant={{ page.symbol }})
 
 [![seed_heads]][lbj_TRDA3_seeds]
 [![clumps]][lbj_TRDA3_clumps]
