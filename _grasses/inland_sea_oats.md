@@ -8,13 +8,13 @@ symbol: CHLA5
 
 [Lady Bird Johnson Wildflower Center - {{ page.title }} ](https://www.wildflower.org/plants/result.php?id_plant={{ page.symbol }})
 
-[![seed_heads]][lbj_CHLA5_seeds]
+[[seed_heads]][lbj_CHLA5_seeds]
 [![clumps]][lbj_CHLA5_clumps]
 [![leaf_branching]][lbj_CHLA5_leaf_branching]
 [![leaf_origin]][lbj_CHLA5_leaf_origin]
 
 
-[seed_heads]: <figure><img src='{{ site.baseurl }}/images/grasses/{{ page.name }}/SS500_077.jpg'><figcaption>Seed Heads</figcaption></figure>
+[seed_heads]: "<figure><img src='{{ site.baseurl }}/images/grasses/{{ page.name }}/SS500_077.jpg'><figcaption>Seed Heads</figcaption></figure>""
 [clumps]: {{ site.baseurl }}/images/grasses/{{ page.name }}/6151_IMG01416.JPG
 [leaf_branching]: {{ site.baseurl }}/images/grasses/{{ page.name }}/PCR_IMG0186.JPG
 [leaf_origin]: {{ site.baseurl }}/images/grasses/{{ page.name }}/PCR_IMG0187.JPG
