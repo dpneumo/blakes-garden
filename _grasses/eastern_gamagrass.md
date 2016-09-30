@@ -3,8 +3,6 @@ layout: default
 title: Eastern Gamagrass
 name: eastern_gamagrass
 symbol: TRDA3
-imgsource: http://www.wildflower.org/gallery
-imgfldr: {{ site.baseurl }}/images/grasses/{{ page.name }}
 ---
 ## Eastern Gamagrass (Tripsacum dactyloides)
 
