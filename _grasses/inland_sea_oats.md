@@ -14,7 +14,7 @@ symbol: CHLA5
 [![leaf_origin]][lbj_CHLA5_leaf_origin]
 
 
-[seed_heads]: {{ site.baseurl }}/images/grasses/{{ page.name }}/SS500_077.jpg
+[seed_heads]: <figure>{{ site.baseurl }}/images/grasses/{{ page.name }}/SS500_077.jpg<figcaption>Seed Heads</figcaption></figure>
 [clumps]: {{ site.baseurl }}/images/grasses/{{ page.name }}/6151_IMG01416.JPG
 [leaf_branching]: {{ site.baseurl }}/images/grasses/{{ page.name }}/PCR_IMG0186.JPG
 [leaf_origin]: {{ site.baseurl }}/images/grasses/{{ page.name }}/PCR_IMG0187.JPG
