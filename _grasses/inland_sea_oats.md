@@ -13,8 +13,12 @@ symbol: CHLA5
 [![leaf_branching]][lbj_CHLA5_leaf_branching]
 [![leaf_origin]][lbj_CHLA5_leaf_origin]
 
+<figure>
+  <img src='/blakes-garden/images/grasses/inland_sea_oats/SS500_077.jpg'>
+  <figcaption>Seed Heads</figcaption>
+</figure>
 
-[seed_heads]: "<figure><img src='{{ site.baseurl }}/images/grasses/{{ page.name }}/SS500_077.jpg'><figcaption>Seed Heads</figcaption></figure>""
+[seed_heads]: {{ site.baseurl }}/images/grasses/{{ page.name }}/SS500_077.jpg
 [clumps]: {{ site.baseurl }}/images/grasses/{{ page.name }}/6151_IMG01416.JPG
 [leaf_branching]: {{ site.baseurl }}/images/grasses/{{ page.name }}/PCR_IMG0186.JPG
 [leaf_origin]: {{ site.baseurl }}/images/grasses/{{ page.name }}/PCR_IMG0187.JPG
