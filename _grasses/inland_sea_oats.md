@@ -13,14 +13,14 @@ symbol: CHLA5
 [![leaf_branching]][lbj_CHLA5_leaf_branching]
 [![leaf_origin]][lbj_CHLA5_leaf_origin]
 
-
+<p>
 <a href='http://www.wildflower.org/gallery/result.php?id_image=19376' title='Sam C Strickland, Lady Bird Johnson Wildflower Center'>
   <figure>
     <img src='/blakes-garden/images/grasses/inland_sea_oats/SS500_077.jpg'>
     <figcaption>Seed Heads</figcaption>
   </figure>
 </a>
-
+</p>
 
 [seed_heads]: {{ site.baseurl }}/images/grasses/{{ page.name }}/SS500_077.jpg
 [clumps]: {{ site.baseurl }}/images/grasses/{{ page.name }}/6151_IMG01416.JPG
