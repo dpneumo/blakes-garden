@@ -3,8 +3,8 @@ layout: default
 title: Eastern Gamagrass
 name: eastern_gamagrass
 symbol: TRDA3
-img_source: http://www.wildflower.org/gallery
-img_fldr: {{ site.baseurl }}/images/grasses/{{ page.name }}
+imgsource: http://www.wildflower.org/gallery
+imgfldr: {{ site.baseurl }}/images/grasses/{{ page.name }}
 ---
 ## Eastern Gamagrass (Tripsacum dactyloides)
 
@@ -20,7 +20,7 @@ img_fldr: {{ site.baseurl }}/images/grasses/{{ page.name }}
 [flowers]: {{ site.baseurl }}/images/grasses/{{ page.name }}/PCD0002_IMG0004.JPG
 [staminate_spikelets]: {{ site.baseurl }}/images/grasses/{{ page.name }}/CF_IMG0462.JPG
 
-[lbj_TRDA3_seeds]: {{ page.img_source }}/result.php?id_image=103 "Paul Cox, Lady Bird Johnson Wildflower Center"
-[lbj_TRDA3_clumps]: {{ page.img_source }}/result.php?id_image=105 "Beth Anderson, Lady Bird Johnson Wildflower Center"
-[lbj_TRDA3_flowers]: {{ page.img_source }}/result.php?id_image=104 "Paul Cox, Lady Bird Johnson Wildflower Center"
-[lbj_TRDA3_staminate_spikelets]: {{ page.img_source }}/result.php?id_image=36845 "Carolyn Fannon, Lady Bird Johnson Wildflower Center"
+[lbj_TRDA3_seeds]: {{ page.imgsource }}/result.php?id_image=103 "Paul Cox, Lady Bird Johnson Wildflower Center"
+[lbj_TRDA3_clumps]: {{ page.imgsource }}/result.php?id_image=105 "Beth Anderson, Lady Bird Johnson Wildflower Center"
+[lbj_TRDA3_flowers]: {{ page.imgsource }}/result.php?id_image=104 "Paul Cox, Lady Bird Johnson Wildflower Center"
+[lbj_TRDA3_staminate_spikelets]: {{ page.imgsource }}/result.php?id_image=36845 "Carolyn Fannon, Lady Bird Johnson Wildflower Center"
