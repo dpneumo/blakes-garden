@@ -16,7 +16,7 @@ symbol: TRDA3
 [seed_heads]: {{ site.baseurl }}/images/grasses/{{ page.name }}/PCD0002_IMG0003.JPG
 [clumps]: {{ site.baseurl }}/images/grasses/{{ page.name }}/PCD0002_IMG0005.JPG
 [flowers]: {{ site.baseurl }}/images/grasses/{{ page.name }}/PCD0002_IMG0004.JPG
-[staminate spikelets]: {{ site.baseurl }}/images/grasses/{{ page.name }}/CF_IMG0462.JPG
+[staminate_spikelets]: {{ site.baseurl }}/images/grasses/{{ page.name }}/CF_IMG0462.JPG
 
 [lbj_TRDA3_seeds]: http://www.wildflower.org/gallery/result.php?id_image=103 "Paul Cox, Lady Bird Johnson Wildflower Center"
 [lbj_TRDA3_clumps]: http://www.wildflower.org/gallery/result.php?id_image=105 "Beth Anderson, Lady Bird Johnson Wildflower Center"
