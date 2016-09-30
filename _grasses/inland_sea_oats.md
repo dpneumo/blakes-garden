@@ -8,19 +8,11 @@ symbol: CHLA5
 
 [Lady Bird Johnson Wildflower Center - {{ page.title }} ](https://www.wildflower.org/plants/result.php?id_plant={{ page.symbol }})
 
-<p>
-  <a href='http://www.wildflower.org/gallery/result.php?id_image=19376' title='Sam C Strickland, Lady Bird Johnson Wildflower Center'>
-    <figure>
-      <img src='/blakes-garden/images/grasses/inland_sea_oats/SS500_077.jpg'>
-      <figcaption>Seed Heads</figcaption>
-    </figure>
-  </a>
-</p>
-
 [![seed_heads]][lbj_CHLA5_seeds]
 [![clumps]][lbj_CHLA5_clumps]
 [![leaf_branching]][lbj_CHLA5_leaf_branching]
 [![leaf_origin]][lbj_CHLA5_leaf_origin]
+
 
 [seed_heads]: {{ site.baseurl }}/images/grasses/{{ page.name }}/SS500_077.jpg
 [clumps]: {{ site.baseurl }}/images/grasses/{{ page.name }}/6151_IMG01416.JPG
