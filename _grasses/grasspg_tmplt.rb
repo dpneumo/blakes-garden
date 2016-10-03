@@ -1,6 +1,6 @@
 require 'yaml'
 
-grasses = [ 'inland_sea_oats_data.yml',
+grasses = [ 'inland_sea_oats.yml',
             'eastern_gamagrass.yml'
 ]
 

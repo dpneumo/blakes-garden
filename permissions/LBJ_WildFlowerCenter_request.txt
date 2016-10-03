@@ -1,0 +1,24 @@
+My wife and I are attempting to move our yard toward all native plantings. We have created a wildscape in the lot adjacent to our house with the intent to demonstrate the beauty and practicality of plantings of native Texas wild flowers and grasses. A website is being created to document our yard and the wildscape.
+
+I would like to ask your permission to use images from the Image Gallery in the 120x160 pixel format for thumbnails to act as links to the associated NPIN entries. The links will provide hover captions that contain the text 'photographer_name, Lady Bird Johnson Wildflower Center'. Access to larger format images from the NPIN image gallery will not be provided within the site. Rather the site visitor would have to follow the link to the associated image page within your website. I provide a statement that the thumbnail images are subject to copyright restrictions and are not to be reused. A link to your Image Use Policy is provided.
+
+This site will have no commercial use. I will not include advertising nor recommend products. Though I will attempt to avoid it, I might on occasion find it necessary to list a brand name of material used when a generic product is not available. I do intend to list the tools used to produce my site: GitHub Pages site hosting, Jekyll static site generator, the Ruby programming language, and others. My blog entries may infrequently discuss these or provide references. The programming underlying the site will be available as open source code on GitHub.
+
+Although it is possible to make the website private I would prefer, with your permission, to use these thumbnail images in a publically available site. There are several reasons for this preference.
+
+Identification of existing grasses in our landscape has been time consuming and laborious. This website will collect in one location pertinent visual and textual information. Presentation of this information in a public website would allow easy access via a tablet PC or iPad while gardening, shopping, or discussing the landscape with others in almost any location. The collected information and links might at some point be more generally useful to others.
+
+We have a young man working with us to maintain the landscape. He is majoring in biology at UT Arlington. It is hoped that his contribution to this project might be used to contribute to his work toward his degree. That use has not as yet been confirmed with his academic advisors.
+
+Building this site and adding information to the pages is proving an excellent educational opportunity for us. In addition to the informational pages we plan to periodically write blog entries describing plans, implementations, results, and 'conclusions' concerning efforts with the landscape. We hope others find these blog entries on a public website useful.
+
+Unrelated to botanical issues I am a programmer and have been exploring tools that facilitate "static" website creation. I have chosen a tool known as Jekyll to build the site. Documentation for Jekyll is mostly oriented to blogs rather than to informational content. It is my hope to use this site as a demonstration of techniques that are not well documented.
+
+Currently I have a test/demo site up at https://dpneumo.github.io/blakes-garden. This is very preliminary and was created to allow me to sort out issues associated with a Jekyll based website and with presenting thumbnail based links to the NPIN image gallery. Only the Eastern Gamagrass and Inland Sea Oats pages show the use of thumbnails. The statement concerning image reuse and the link to your Image Use Policy is demonstrated.
+
+Thank you for your consideration.
+
+Mitch Kuppinger
+dpneumo@gmail.com
+6004 Englishoak Dr
+Arlington, TX 76016
