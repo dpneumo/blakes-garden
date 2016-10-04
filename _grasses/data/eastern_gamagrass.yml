@@ -6,25 +6,25 @@ remote_name: 'Lady Bird Johnson Wildflower Center'
 remote_url: 'http://www.wildflower.org'
 
 image_data:
-  - :img_name: PCD0002_IMG0003.JPG
+  - :img_name: Unavailable.JPG
     :local_img_key: seed_heads
     :remote_img_key: lbj_TRDA3_seeds
     :remote_img_id: '103'
     :photographer: Paul Cox
 
-  - :img_name: PCD0002_IMG0005.JPG
+  - :img_name: Unavailable.JPG
     :local_img_key: clumps
     :remote_img_key: lbj_TRDA3_clumps
     :remote_img_id: '105'
     :photographer: Beth Anderson
 
-  - :img_name: PCD0002_IMG0004.JPG
+  - :img_name: Unavailable.JPG
     :local_img_key: leaf_branching
     :remote_img_key: lbj_TRDA3_flowers
     :remote_img_id: '104'
     :photographer: Paul Cox
 
-  - :img_name: CF_IMG0462.JPG
+  - :img_name: Unavailable.JPG
     :local_img_key: leaf_origin
     :remote_img_key: lbj_TRDA3_staminate_spikelets
     :remote_img_id: '36845'

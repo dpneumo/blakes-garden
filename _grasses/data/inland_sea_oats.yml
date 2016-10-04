@@ -6,25 +6,25 @@ remote_name: 'Lady Bird Johnson Wildflower Center'
 remote_url: 'http://www.wildflower.org'
 
 image_data:
-  - :img_name: SS500_077.jpg
+  - :img_name: Unavailable.JPG
     :local_img_key: seed_heads
     :remote_img_key: lbj_CHLA5_seeds
     :remote_img_id: '19376'
     :photographer: Sam C Strickland
 
-  - :img_name: 6151_IMG01416.JPG
+  - :img_name: Unavailable.JPG
     :local_img_key: clumps
     :remote_img_key: lbj_CHLA5_clumps
     :remote_img_id: '12878'
     :photographer: Joseph a Marcus
 
-  - :img_name: PCR_IMG0186.JPG
+  - :img_name: Unavailable.JPG
     :local_img_key: leaf_branching
     :remote_img_key: lbj_CHLA5_leaf_branching
     :remote_img_id: '42959'
     :photographer: Peggy Romfh
 
-  - :img_name: PCR_IMG0187.JPG
+  - :img_name: Unavailable.JPG
     :local_img_key: leaf_origin
     :remote_img_key: lbj_CHLA5_leaf_origin
     :remote_img_id: '42960'
